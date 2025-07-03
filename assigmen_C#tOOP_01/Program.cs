@@ -14,7 +14,7 @@
             #region q1
             //for (int i=0;i<7;i++)
             //{
-
+            
 
             //   WeeekDays weekday = (WeeekDays)i;
             //    Console.WriteLine(weekday+"\n");
